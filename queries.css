@@ -90,14 +90,14 @@
     bottom: 1rem;
     right: 1rem;
   }
-    .theme-toggle {
+  .theme-toggle {
     width: 2.8rem;
     height: 2.8rem;
   }
   .theme-toggle ion-icon {
-  width: 1.4rem;
-  height: 1.4rem;
-}
+    width: 1.4rem;
+    height: 1.4rem;
+  }
 }
 
 /* 600 */
@@ -132,7 +132,7 @@
   }
 
   .introduction h1 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   .introduction h3 {
